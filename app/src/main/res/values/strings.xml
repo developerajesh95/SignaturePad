@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SignaturePad</string>
+
+    <string name="signature">Signature</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="result_image">Result Image</string>
+    <string name="none">none</string>
+    <string name="clear">Clear</string>
+    <string name="sign">Sign</string>
+    <string name="save">Save</string>
+</resources>
